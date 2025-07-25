@@ -2,7 +2,7 @@
 
 This is my profile card in which i have added my basic information,my skills and contact information.
 
- # there are the screenshotes of my webpage
+ # There is a screenshot of my webpage
    ![homepage](screenshot.png)
 
 # This is the link of my webpage 
